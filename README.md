@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Brian (@brianhill2532)
 
-<!--
-**brianhill2532/brianhill2532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev based in Taipei. Mostly spend my time hacking on backend services, CLI utilities, and random open-source tooling.
 
-Here are some ideas to get you started:
+### What I do
+- Write backend code in **Go** and **Python**
+- Build frontends and lightweight tooling in **JavaScript**
+- Containerize everything with **Docker**
+- Edit text exclusively in **Neovim** (yes, I spend too much time on my config)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working on
+- Contributing to OSS developer tools and infra projects
+- Diving deeper into distributed systems and networking internals
+
+### Contact
+- Open an issue or PR on any of my public repos
+- Email: `brianhill2532@pm.me`
